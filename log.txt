@@ -1,0 +1,72 @@
+------------------------ Cought Exception: PDOException @ 2021-10-06 21:26 ------------------------
+Message: SQLSTATE[HY093]: Invalid parameter number: mixed named and positional parameters
+Stack Trace: 
+#0 C:\xampp\htdocs\www\assets\php\classes\UsersController.php(53): PDOStatement->execute()
+#1 C:\xampp\htdocs\www\assets\php\accountUpdate.php(32): UsersController->UpdateUserData(Array, 'caio@couto.com')
+#2 {main}
+thrown C:\xampp\htdocs\www\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-06 21:26 ------------------------
+Message: SQLSTATE[HY093]: Invalid parameter number: mixed named and positional parameters
+Stack Trace: 
+#0 C:\xampp\htdocs\www\assets\php\classes\UsersController.php(53): PDOStatement->execute()
+#1 C:\xampp\htdocs\www\assets\php\accountUpdate.php(32): UsersController->UpdateUserData(Array, 'caio@couto.com')
+#2 {main}
+thrown C:\xampp\htdocs\www\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-06 21:30 ------------------------
+Message: SQLSTATE[HY093]: Invalid parameter number: mixed named and positional parameters
+Stack Trace: 
+#0 C:\xampp\htdocs\www\assets\php\classes\UsersController.php(53): PDOStatement->execute()
+#1 C:\xampp\htdocs\www\assets\php\accountUpdate.php(32): UsersController->UpdateUserData(Array, 'caio@couto.com')
+#2 {main}
+thrown C:\xampp\htdocs\www\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-06 21:35 ------------------------
+Message: SQLSTATE[HY093]: Invalid parameter number: mixed named and positional parameters
+Stack Trace: 
+#0 C:\xampp\htdocs\www\assets\php\classes\UsersController.php(53): PDOStatement->execute()
+#1 C:\xampp\htdocs\www\assets\php\accountUpdate.php(32): UsersController->UpdateUserData(Array, 'caio@couto.com')
+#2 {main}
+thrown C:\xampp\htdocs\www\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-06 21:37 ------------------------
+Message: SQLSTATE[HY093]: Invalid parameter number: mixed named and positional parameters
+Stack Trace: 
+#0 C:\xampp\htdocs\www\assets\php\classes\UsersController.php(53): PDOStatement->execute()
+#1 C:\xampp\htdocs\www\assets\php\accountUpdate.php(32): UsersController->UpdateUserData(Array, 'caio@couto.com')
+#2 {main}
+thrown C:\xampp\htdocs\www\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-07 19:03 ------------------------
+Message: SQLSTATE[HY093]: Invalid parameter number: mixed named and positional parameters
+Stack Trace: 
+#0 C:\xampp\htdocs\www\assets\php\classes\UsersController.php(53): PDOStatement->execute()
+#1 C:\xampp\htdocs\www\assets\php\accountUpdate.php(32): UsersController->UpdateUserData(Array, 'caio@couto.com')
+#2 {main}
+thrown C:\xampp\htdocs\www\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-07 19:17 ------------------------
+Message: SQLSTATE[HY093]: Invalid parameter number: mixed named and positional parameters
+Stack Trace: 
+#0 C:\xampp\htdocs\www\assets\php\classes\UsersController.php(53): PDOStatement->execute()
+#1 C:\xampp\htdocs\www\assets\php\accountUpdate.php(33): UsersController->UpdateUserData(Array, 'caio@couto.com')
+#2 {main}
+thrown C:\xampp\htdocs\www\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-07 19:24 ------------------------
+Message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+Stack Trace: 
+#0 C:\xampp\htdocs\www\assets\php\classes\UsersController.php(53): PDOStatement->execute()
+#1 C:\xampp\htdocs\www\assets\php\accountUpdate.php(33): UsersController->UpdateUserData(Array, 'caio@couto.com')
+#2 {main}
+thrown C:\xampp\htdocs\www\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-07 19:24 ------------------------
+Message: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+Stack Trace: 
+#0 C:\xampp\htdocs\www\assets\php\classes\UsersController.php(53): PDOStatement->execute()
+#1 C:\xampp\htdocs\www\assets\php\accountUpdate.php(33): UsersController->UpdateUserData(Array, 'caio@couto.com')
+#2 {main}
+thrown C:\xampp\htdocs\www\assets\php\classes\UsersController.php
+

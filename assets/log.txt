@@ -1,0 +1,72 @@
+------------------------ Cought Exception: PDOException @ 2021-10-27 20:47 ------------------------
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'status' cannot be null
+Stack Trace: 
+#0 C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php(30): PDOStatement->execute()
+#1 C:\xampp\htdocs\yellowpegasus\assets\php\handlers\signup.php(25): UsersController->insertNewUser(Array)
+#2 {main}
+thrown C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-27 20:50 ------------------------
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'status' cannot be null
+Stack Trace: 
+#0 C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php(30): PDOStatement->execute()
+#1 C:\xampp\htdocs\yellowpegasus\assets\php\handlers\signup.php(25): UsersController->insertNewUser(Array)
+#2 {main}
+thrown C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-27 20:51 ------------------------
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'status' cannot be null
+Stack Trace: 
+#0 C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php(30): PDOStatement->execute()
+#1 C:\xampp\htdocs\yellowpegasus\assets\php\handlers\signup.php(25): UsersController->insertNewUser(Array)
+#2 {main}
+thrown C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-27 20:51 ------------------------
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'status' cannot be null
+Stack Trace: 
+#0 C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php(30): PDOStatement->execute()
+#1 C:\xampp\htdocs\yellowpegasus\assets\php\handlers\signup.php(25): UsersController->insertNewUser(Array)
+#2 {main}
+thrown C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-27 20:55 ------------------------
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'status' cannot be null
+Stack Trace: 
+#0 C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php(28): PDOStatement->execute()
+#1 C:\xampp\htdocs\yellowpegasus\assets\php\handlers\signup.php(25): UsersController->insertNewUser(Array)
+#2 {main}
+thrown C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-27 21:01 ------------------------
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'status' cannot be null
+Stack Trace: 
+#0 C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php(28): PDOStatement->execute()
+#1 C:\xampp\htdocs\yellowpegasus\assets\php\handlers\signup.php(26): UsersController->insertNewUser(Array)
+#2 {main}
+thrown C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-27 21:01 ------------------------
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'status' cannot be null
+Stack Trace: 
+#0 C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php(28): PDOStatement->execute()
+#1 C:\xampp\htdocs\yellowpegasus\assets\php\handlers\signup.php(26): UsersController->insertNewUser(Array)
+#2 {main}
+thrown C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-27 21:40 ------------------------
+Message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'password' in 'field list'
+Stack Trace: 
+#0 C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php(57): PDOStatement->execute()
+#1 C:\xampp\htdocs\yellowpegasus\assets\php\handlers\accountUpdate.php(25): UsersController->UpdateUserData(Array, 'caio@couto.com')
+#2 {main}
+thrown C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php
+
+------------------------ Cought Exception: PDOException @ 2021-10-27 21:41 ------------------------
+Message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'password' in 'field list'
+Stack Trace: 
+#0 C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php(57): PDOStatement->execute()
+#1 C:\xampp\htdocs\yellowpegasus\assets\php\handlers\accountUpdate.php(25): UsersController->UpdateUserData(Array, 'caio@couto.com')
+#2 {main}
+thrown C:\xampp\htdocs\yellowpegasus\assets\php\classes\UsersController.php
+
